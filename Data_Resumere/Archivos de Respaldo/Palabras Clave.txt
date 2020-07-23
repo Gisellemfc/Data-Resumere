@@ -1,0 +1,1 @@
+'Sistema','arquitectura','componentes','programa','frameworks','análisis','desarrollo','ingeniería','ISO/IEC','REST','información','memoria','Velocidad','consultas','GraphQL','capacidad','transferencia','estado','aplicaciones'
